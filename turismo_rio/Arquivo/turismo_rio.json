@@ -1,0 +1,1560 @@
+[
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 2,
+    "nome_local": "Cristo Redentor",
+    "categoria": null,
+    "avaliacao": 1.7,
+    "preco_medio": 87.94,
+    "data_visita": "2024-10-22 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 148",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20303-738"
+    },
+    "numero_visitantes": 416
+  },
+  {
+    "id": 3,
+    "nome_local": null,
+    "categoria": "Esporte",
+    "avaliacao": 1.7,
+    "preco_medio": 59.08,
+    "data_visita": "2024-08-25 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 3",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23533-222"
+    },
+    "numero_visitantes": 755
+  },
+  {
+    "id": 4,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": 1.1,
+    "preco_medio": 433.91,
+    "data_visita": "2024-07-12 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 192",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20622-611"
+    },
+    "numero_visitantes": 296
+  },
+  {
+    "id": 5,
+    "nome_local": "Museu do Amanhã",
+    "categoria": "Praia",
+    "avaliacao": 2.6,
+    "preco_medio": 149.17,
+    "data_visita": "2024-04-09 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 125",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24448-800"
+    },
+    "numero_visitantes": 793
+  },
+  {
+    "id": 6,
+    "nome_local": "Museu do Amanhã",
+    "categoria": null,
+    "avaliacao": 2.9,
+    "preco_medio": null,
+    "data_visita": "2024-06-14 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 97",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24914-585"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 7,
+    "nome_local": null,
+    "categoria": "Esporte",
+    "avaliacao": 4.7,
+    "preco_medio": 119.74,
+    "data_visita": "2024-04-29 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 99",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23395-680"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 8,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Gastronomia",
+    "avaliacao": 1.8,
+    "preco_medio": null,
+    "data_visita": "2024-05-09 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 84",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23068-823"
+    },
+    "numero_visitantes": 108
+  },
+  {
+    "id": 9,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Aventura",
+    "avaliacao": 3.9,
+    "preco_medio": null,
+    "data_visita": "2024-10-16 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 111",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21388-206"
+    },
+    "numero_visitantes": 574
+  },
+  {
+    "id": 10,
+    "nome_local": "Praia de Copacabana",
+    "categoria": null,
+    "avaliacao": 3.9,
+    "preco_medio": null,
+    "data_visita": "2024-10-03 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 56",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20903-175"
+    },
+    "numero_visitantes": 12
+  },
+  {
+    "id": 11,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Praia",
+    "avaliacao": 3.2,
+    "preco_medio": 199.4,
+    "data_visita": "2024-12-28 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 149",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22538-337"
+    },
+    "numero_visitantes": 51
+  },
+  {
+    "id": 12,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Aventura",
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": "2025-02-13 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 13",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24905-165"
+    },
+    "numero_visitantes": 296
+  },
+  {
+    "id": 13,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Aventura",
+    "avaliacao": 3.8,
+    "preco_medio": 364.44,
+    "data_visita": "2025-02-15 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 22",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23769-760"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 14,
+    "nome_local": "Museu do Amanhã",
+    "categoria": null,
+    "avaliacao": 4.2,
+    "preco_medio": 183.62,
+    "data_visita": "2024-08-16 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 199",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22298-460"
+    },
+    "numero_visitantes": 389
+  },
+  {
+    "id": 15,
+    "nome_local": "Museu do Amanhã",
+    "categoria": null,
+    "avaliacao": 3.9,
+    "preco_medio": 246.14,
+    "data_visita": "2024-05-15 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 15",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23741-628"
+    },
+    "numero_visitantes": 196
+  },
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 17,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": 2.1,
+    "preco_medio": null,
+    "data_visita": "2024-09-21 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 17",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23945-927"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 18,
+    "nome_local": "Maracanã",
+    "categoria": "Esporte",
+    "avaliacao": 2.0,
+    "preco_medio": 284.7,
+    "data_visita": "2024-12-23 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 120",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20082-143"
+    },
+    "numero_visitantes": 204
+  },
+  {
+    "id": 19,
+    "nome_local": "Maracanã",
+    "categoria": "Gastronomia",
+    "avaliacao": 2.5,
+    "preco_medio": 156.13,
+    "data_visita": "2025-01-23 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 85",
+      "bairro": "Santa Teresa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24001-374"
+    },
+    "numero_visitantes": 927
+  },
+  {
+    "id": 20,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Cultura",
+    "avaliacao": 4.8,
+    "preco_medio": 405.46,
+    "data_visita": "2024-07-28 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 176",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23297-576"
+    },
+    "numero_visitantes": 24
+  },
+  {
+    "id": 21,
+    "nome_local": null,
+    "categoria": "Cultura",
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": "2024-06-29 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 106",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24525-672"
+    },
+    "numero_visitantes": 432
+  },
+  {
+    "id": 22,
+    "nome_local": "Praia de Copacabana",
+    "categoria": null,
+    "avaliacao": 1.4,
+    "preco_medio": 178.42,
+    "data_visita": "2025-01-23 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 183",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22275-227"
+    },
+    "numero_visitantes": 743
+  },
+  {
+    "id": 23,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Aventura",
+    "avaliacao": 1.3,
+    "preco_medio": null,
+    "data_visita": "2024-10-25 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 146",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23122-486"
+    },
+    "numero_visitantes": 957
+  },
+  {
+    "id": 24,
+    "nome_local": null,
+    "categoria": "Cultura",
+    "avaliacao": 4.3,
+    "preco_medio": 17.61,
+    "data_visita": "2024-03-17 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 138",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21255-171"
+    },
+    "numero_visitantes": 579
+  },
+  {
+    "id": 25,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Praia",
+    "avaliacao": 3.2,
+    "preco_medio": 98.05,
+    "data_visita": "2024-04-28 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 190",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22617-965"
+    },
+    "numero_visitantes": 705
+  },
+  {
+    "id": 26,
+    "nome_local": null,
+    "categoria": "Cultura",
+    "avaliacao": 2.0,
+    "preco_medio": 324.13,
+    "data_visita": "2024-04-16 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 178",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23394-171"
+    },
+    "numero_visitantes": 99
+  },
+  {
+    "id": 27,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Praia",
+    "avaliacao": 3.8,
+    "preco_medio": null,
+    "data_visita": "2024-11-23 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 128",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23889-526"
+    },
+    "numero_visitantes": 3
+  },
+  {
+    "id": 28,
+    "nome_local": null,
+    "categoria": "Aventura",
+    "avaliacao": null,
+    "preco_medio": 34.13,
+    "data_visita": "2024-06-05 02:32:53.571",
+    "endereco": {
+      "rua": "Rua 142",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20587-724"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 29,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Gastronomia",
+    "avaliacao": 4.3,
+    "preco_medio": null,
+    "data_visita": "2024-04-24 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 94",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22814-210"
+    },
+    "numero_visitantes": 409
+  },
+  {
+    "id": 30,
+    "nome_local": "Museu do Amanhã",
+    "categoria": "História",
+    "avaliacao": 2.1,
+    "preco_medio": 23.54,
+    "data_visita": "2024-10-30 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 54",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22015-226"
+    },
+    "numero_visitantes": 985
+  },
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 32,
+    "nome_local": "Maracanã",
+    "categoria": "Praia",
+    "avaliacao": 3.9,
+    "preco_medio": 364.36,
+    "data_visita": "2024-08-08 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 1",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23541-495"
+    },
+    "numero_visitantes": 311
+  },
+  {
+    "id": 33,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Praia",
+    "avaliacao": null,
+    "preco_medio": 224.9,
+    "data_visita": "2024-07-12 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 92",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20083-349"
+    },
+    "numero_visitantes": 699
+  },
+  {
+    "id": 34,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "História",
+    "avaliacao": 1.7,
+    "preco_medio": 121.14,
+    "data_visita": "2025-02-07 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 113",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20564-872"
+    },
+    "numero_visitantes": 228
+  },
+  {
+    "id": 35,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Gastronomia",
+    "avaliacao": 2.5,
+    "preco_medio": 91.05,
+    "data_visita": "2024-11-13 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 163",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21125-363"
+    },
+    "numero_visitantes": 771
+  },
+  {
+    "id": 36,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Esporte",
+    "avaliacao": 3.5,
+    "preco_medio": null,
+    "data_visita": "2024-11-16 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 66",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22108-136"
+    },
+    "numero_visitantes": 113
+  },
+  {
+    "id": 37,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Aventura",
+    "avaliacao": 2.1,
+    "preco_medio": 62.12,
+    "data_visita": "2024-10-01 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 25",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21759-439"
+    },
+    "numero_visitantes": 450
+  },
+  {
+    "id": 38,
+    "nome_local": "Maracanã",
+    "categoria": "Praia",
+    "avaliacao": 2.8,
+    "preco_medio": null,
+    "data_visita": "2024-08-13 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 119",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24539-912"
+    },
+    "numero_visitantes": 2
+  },
+  {
+    "id": 39,
+    "nome_local": "Maracanã",
+    "categoria": "Aventura",
+    "avaliacao": 2.6,
+    "preco_medio": 426.41,
+    "data_visita": "2024-06-23 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 52",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20470-439"
+    },
+    "numero_visitantes": 307
+  },
+  {
+    "id": 40,
+    "nome_local": null,
+    "categoria": "História",
+    "avaliacao": 2.0,
+    "preco_medio": 342.77,
+    "data_visita": "2024-03-14 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 117",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20829-301"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 41,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Gastronomia",
+    "avaliacao": 1.7,
+    "preco_medio": 185.84,
+    "data_visita": "2024-12-09 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 9",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22183-131"
+    },
+    "numero_visitantes": 46
+  },
+  {
+    "id": 42,
+    "nome_local": "Maracanã",
+    "categoria": null,
+    "avaliacao": 2.6,
+    "preco_medio": 341.61,
+    "data_visita": "2025-02-22 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 43",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24201-936"
+    },
+    "numero_visitantes": 72
+  },
+  {
+    "id": 43,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Aventura",
+    "avaliacao": 2.8,
+    "preco_medio": null,
+    "data_visita": "2024-12-22 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 12",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22840-360"
+    },
+    "numero_visitantes": 788
+  },
+  {
+    "id": 44,
+    "nome_local": "Maracanã",
+    "categoria": "Cultura",
+    "avaliacao": null,
+    "preco_medio": 302.3,
+    "data_visita": "2024-06-01 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 162",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22248-959"
+    },
+    "numero_visitantes": 39
+  },
+  {
+    "id": 45,
+    "nome_local": "Cristo Redentor",
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": 161.17,
+    "data_visita": "2024-08-02 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 39",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24536-164"
+    },
+    "numero_visitantes": 569
+  },
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 47,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Esporte",
+    "avaliacao": 2.7,
+    "preco_medio": 12.96,
+    "data_visita": "2024-06-14 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 117",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23923-449"
+    },
+    "numero_visitantes": 714
+  },
+  {
+    "id": 48,
+    "nome_local": "Maracanã",
+    "categoria": "História",
+    "avaliacao": 3.8,
+    "preco_medio": null,
+    "data_visita": "2024-03-27 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 56",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24327-557"
+    },
+    "numero_visitantes": 512
+  },
+  {
+    "id": 49,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Esporte",
+    "avaliacao": 2.1,
+    "preco_medio": 243.77,
+    "data_visita": "2024-04-26 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 181",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20578-818"
+    },
+    "numero_visitantes": 469
+  },
+  {
+    "id": 50,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Praia",
+    "avaliacao": null,
+    "preco_medio": 117.89,
+    "data_visita": "2024-06-28 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 133",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24117-556"
+    },
+    "numero_visitantes": 982
+  },
+  {
+    "id": 51,
+    "nome_local": "Cristo Redentor",
+    "categoria": null,
+    "avaliacao": 3.0,
+    "preco_medio": null,
+    "data_visita": "2024-09-29 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 52",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21506-480"
+    },
+    "numero_visitantes": 927
+  },
+  {
+    "id": 52,
+    "nome_local": "Cristo Redentor",
+    "categoria": null,
+    "avaliacao": 2.9,
+    "preco_medio": 33.99,
+    "data_visita": "2024-10-07 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 20",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20531-920"
+    },
+    "numero_visitantes": 777
+  },
+  {
+    "id": 53,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Esporte",
+    "avaliacao": 4.0,
+    "preco_medio": 139.97,
+    "data_visita": "2024-06-19 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 150",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23849-565"
+    },
+    "numero_visitantes": 383
+  },
+  {
+    "id": 54,
+    "nome_local": "Maracanã",
+    "categoria": "Esporte",
+    "avaliacao": 4.5,
+    "preco_medio": 446.71,
+    "data_visita": "2024-07-25 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 187",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21172-763"
+    },
+    "numero_visitantes": 372
+  },
+  {
+    "id": 55,
+    "nome_local": null,
+    "categoria": "Cultura",
+    "avaliacao": 3.3,
+    "preco_medio": 183.16,
+    "data_visita": "2024-03-11 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 23",
+      "bairro": "Santa Teresa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24449-806"
+    },
+    "numero_visitantes": 211
+  },
+  {
+    "id": 56,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Aventura",
+    "avaliacao": 4.1,
+    "preco_medio": null,
+    "data_visita": "2024-07-20 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 42",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22637-708"
+    },
+    "numero_visitantes": 165
+  },
+  {
+    "id": 57,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "História",
+    "avaliacao": 4.5,
+    "preco_medio": null,
+    "data_visita": "2024-05-20 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 138",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24572-139"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 58,
+    "nome_local": "Museu do Amanhã",
+    "categoria": "Esporte",
+    "avaliacao": 3.0,
+    "preco_medio": null,
+    "data_visita": "2024-07-17 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 68",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24643-927"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 59,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Praia",
+    "avaliacao": 2.1,
+    "preco_medio": 337.29,
+    "data_visita": "2024-07-07 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 155",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20491-936"
+    },
+    "numero_visitantes": 997
+  },
+  {
+    "id": 60,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Praia",
+    "avaliacao": 3.1,
+    "preco_medio": 302.22,
+    "data_visita": "2024-08-31 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 72",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24099-920"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 62,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Praia",
+    "avaliacao": 3.6,
+    "preco_medio": null,
+    "data_visita": "2024-06-07 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 172",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22459-139"
+    },
+    "numero_visitantes": 267
+  },
+  {
+    "id": 63,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Cultura",
+    "avaliacao": 1.7,
+    "preco_medio": 438.0,
+    "data_visita": "2025-02-04 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 64",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20379-687"
+    },
+    "numero_visitantes": 494
+  },
+  {
+    "id": 64,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Cultura",
+    "avaliacao": 2.0,
+    "preco_medio": 363.53,
+    "data_visita": "2024-03-12 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 156",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22866-680"
+    },
+    "numero_visitantes": 490
+  },
+  {
+    "id": 65,
+    "nome_local": "Praia de Copacabana",
+    "categoria": null,
+    "avaliacao": 3.7,
+    "preco_medio": 367.63,
+    "data_visita": "2024-11-09 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 111",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24679-882"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 66,
+    "nome_local": "Pão de Açúcar",
+    "categoria": null,
+    "avaliacao": 2.8,
+    "preco_medio": 272.99,
+    "data_visita": "2024-04-06 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 161",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22713-929"
+    },
+    "numero_visitantes": 522
+  },
+  {
+    "id": 67,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Cultura",
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": "2025-02-04 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 157",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22701-764"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 68,
+    "nome_local": null,
+    "categoria": "Gastronomia",
+    "avaliacao": 3.6,
+    "preco_medio": 51.05,
+    "data_visita": "2024-03-17 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 24",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20610-539"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 69,
+    "nome_local": "Museu do Amanhã",
+    "categoria": "Gastronomia",
+    "avaliacao": 3.6,
+    "preco_medio": null,
+    "data_visita": "2024-04-12 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 53",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22055-529"
+    },
+    "numero_visitantes": 98
+  },
+  {
+    "id": 70,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Praia",
+    "avaliacao": 3.5,
+    "preco_medio": 108.92,
+    "data_visita": "2024-10-27 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 166",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24532-485"
+    },
+    "numero_visitantes": 253
+  },
+  {
+    "id": 71,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Cultura",
+    "avaliacao": 3.3,
+    "preco_medio": null,
+    "data_visita": "2024-12-21 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 178",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21207-756"
+    },
+    "numero_visitantes": 720
+  },
+  {
+    "id": 72,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Esporte",
+    "avaliacao": 4.7,
+    "preco_medio": null,
+    "data_visita": "2024-10-16 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 22",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22149-844"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 73,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Aventura",
+    "avaliacao": 2.2,
+    "preco_medio": null,
+    "data_visita": "2025-03-09 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 119",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22141-723"
+    },
+    "numero_visitantes": 130
+  },
+  {
+    "id": 74,
+    "nome_local": null,
+    "categoria": "Aventura",
+    "avaliacao": 3.9,
+    "preco_medio": null,
+    "data_visita": "2024-07-11 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 109",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23615-760"
+    },
+    "numero_visitantes": 635
+  },
+  {
+    "id": 75,
+    "nome_local": "Maracanã",
+    "categoria": "Cultura",
+    "avaliacao": 5.0,
+    "preco_medio": 279.45,
+    "data_visita": "2024-07-30 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 121",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23328-965"
+    },
+    "numero_visitantes": 641
+  },
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 77,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Cultura",
+    "avaliacao": 3.4,
+    "preco_medio": null,
+    "data_visita": "2024-06-18 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 78",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21180-190"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 78,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Praia",
+    "avaliacao": 3.7,
+    "preco_medio": 306.91,
+    "data_visita": "2025-03-07 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 71",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24615-295"
+    },
+    "numero_visitantes": 796
+  },
+  {
+    "id": 79,
+    "nome_local": "Cristo Redentor",
+    "categoria": null,
+    "avaliacao": 4.4,
+    "preco_medio": null,
+    "data_visita": "2024-08-06 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 65",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20507-926"
+    },
+    "numero_visitantes": 963
+  },
+  {
+    "id": 80,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Cultura",
+    "avaliacao": 2.0,
+    "preco_medio": 242.44,
+    "data_visita": "2024-06-18 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 109",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24061-105"
+    },
+    "numero_visitantes": 146
+  },
+  {
+    "id": 81,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Esporte",
+    "avaliacao": 3.2,
+    "preco_medio": 472.11,
+    "data_visita": "2025-02-03 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 152",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23236-637"
+    },
+    "numero_visitantes": 55
+  },
+  {
+    "id": 82,
+    "nome_local": "Museu do Amanhã",
+    "categoria": "História",
+    "avaliacao": 2.0,
+    "preco_medio": 443.53,
+    "data_visita": "2024-09-05 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 130",
+      "bairro": "Santa Teresa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20973-946"
+    },
+    "numero_visitantes": 165
+  },
+  {
+    "id": 83,
+    "nome_local": "Museu do Amanhã",
+    "categoria": "Praia",
+    "avaliacao": 4.6,
+    "preco_medio": 40.7,
+    "data_visita": "2025-01-22 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 81",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24090-773"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 84,
+    "nome_local": "Museu do Amanhã",
+    "categoria": null,
+    "avaliacao": 2.1,
+    "preco_medio": 392.08,
+    "data_visita": "2024-08-19 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 7",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20320-684"
+    },
+    "numero_visitantes": 262
+  },
+  {
+    "id": 85,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Esporte",
+    "avaliacao": 1.9,
+    "preco_medio": 238.43,
+    "data_visita": "2024-04-16 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 29",
+      "bairro": "Santa Teresa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23359-621"
+    },
+    "numero_visitantes": 964
+  },
+  {
+    "id": 86,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "História",
+    "avaliacao": 2.3,
+    "preco_medio": 290.52,
+    "data_visita": "2024-04-20 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 84",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22295-415"
+    },
+    "numero_visitantes": 698
+  },
+  {
+    "id": 87,
+    "nome_local": "Maracanã",
+    "categoria": "Gastronomia",
+    "avaliacao": 4.3,
+    "preco_medio": 384.92,
+    "data_visita": "2025-02-05 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 59",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21893-857"
+    },
+    "numero_visitantes": 201
+  },
+  {
+    "id": 88,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Praia",
+    "avaliacao": 1.6,
+    "preco_medio": 380.79,
+    "data_visita": "2025-02-23 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 28",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22562-709"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 89,
+    "nome_local": "Arcos da Lapa",
+    "categoria": null,
+    "avaliacao": 3.1,
+    "preco_medio": 486.41,
+    "data_visita": "2024-09-23 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 139",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23738-632"
+    },
+    "numero_visitantes": 690
+  },
+  {
+    "id": 90,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Cultura",
+    "avaliacao": 4.9,
+    "preco_medio": null,
+    "data_visita": "2024-11-05 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 124",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24432-437"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": null,
+    "nome_local": null,
+    "categoria": null,
+    "avaliacao": null,
+    "preco_medio": null,
+    "data_visita": null,
+    "endereco": null,
+    "numero_visitantes": null
+  },
+  {
+    "id": 92,
+    "nome_local": null,
+    "categoria": "História",
+    "avaliacao": 3.6,
+    "preco_medio": 297.81,
+    "data_visita": "2024-11-05 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 24",
+      "bairro": "Santa Teresa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22640-402"
+    },
+    "numero_visitantes": 717
+  },
+  {
+    "id": 93,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Gastronomia",
+    "avaliacao": 4.3,
+    "preco_medio": 68.17,
+    "data_visita": "2025-01-07 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 75",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23996-145"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 94,
+    "nome_local": "Cristo Redentor",
+    "categoria": "Esporte",
+    "avaliacao": null,
+    "preco_medio": 139.25,
+    "data_visita": "2024-07-28 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 170",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "24497-244"
+    },
+    "numero_visitantes": 286
+  },
+  {
+    "id": 95,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Gastronomia",
+    "avaliacao": 4.5,
+    "preco_medio": 243.54,
+    "data_visita": "2025-02-27 02:32:53.572",
+    "endereco": {
+      "rua": "Rua 153",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20242-951"
+    },
+    "numero_visitantes": 291
+  },
+  {
+    "id": 96,
+    "nome_local": "Praia de Copacabana",
+    "categoria": "Cultura",
+    "avaliacao": null,
+    "preco_medio": 110.76,
+    "data_visita": "2024-11-10 02:32:53.573",
+    "endereco": {
+      "rua": "Rua 108",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21789-685"
+    },
+    "numero_visitantes": null
+  },
+  {
+    "id": 97,
+    "nome_local": "Museu do Amanhã",
+    "categoria": null,
+    "avaliacao": 1.8,
+    "preco_medio": 289.13,
+    "data_visita": "2024-06-25 02:32:53.573",
+    "endereco": {
+      "rua": "Rua 78",
+      "bairro": "Lapa",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23046-899"
+    },
+    "numero_visitantes": 163
+  },
+  {
+    "id": 98,
+    "nome_local": "Pão de Açúcar",
+    "categoria": "Praia",
+    "avaliacao": null,
+    "preco_medio": 450.07,
+    "data_visita": "2024-03-29 02:32:53.573",
+    "endereco": {
+      "rua": "Rua 119",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23588-936"
+    },
+    "numero_visitantes": 252
+  },
+  {
+    "id": 99,
+    "nome_local": "Pão de Açúcar",
+    "categoria": null,
+    "avaliacao": 3.9,
+    "preco_medio": 489.54,
+    "data_visita": "2024-11-13 02:32:53.573",
+    "endereco": {
+      "rua": "Rua 102",
+      "bairro": "Ipanema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21466-356"
+    },
+    "numero_visitantes": 927
+  },
+  {
+    "id": 100,
+    "nome_local": "Arcos da Lapa",
+    "categoria": "Praia",
+    "avaliacao": 4.8,
+    "preco_medio": 397.3,
+    "data_visita": "2024-03-17 02:32:53.573",
+    "endereco": {
+      "rua": "Rua 170",
+      "bairro": "Leblon",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "23028-775"
+    },
+    "numero_visitantes": null
+  }
+]
